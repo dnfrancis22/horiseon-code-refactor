@@ -1,6 +1,6 @@
-..Horiseon-code-refactor..
+**Horiseon-code-refactor**
 
-..Description..
+**Description**
 
 Horiseon is a marketing agency that wants their own website to be more optimized for search engines. They want to achieve this by making their site meet accessibility standards.
 
@@ -12,16 +12,20 @@ To make the site more accessible, I added alt attributes to the images. I create
 
 And finally I went through the style.css file and cleaned up the redundancy to make it more efficient. I also fixed one of the links in the vav bar that was not working.
 
-..Credits..
+**Credits**
 
+#The Importance of favicons for SEO.
 Greg Snow-Wasserman https://www.woorank.com/en/blog/authors/greg-snow-wasserman
 https://www.woorank.com/en/blog/the-importance-of-favicons-for-seo#:~:text=There%20are%20no%20direct%20SEO%20or%20ranking%20effects%20of%20having%20favicons.&text=So%2C%20if%20having%20a%20favicon,but%20noteworthy%20role%20in%20SEO.
 
+#How to add a favicon to your site.
 Melody Chronister
 https://www.youtube.com/watch?v=OtyXba16tWw
 
+#The use of semantic elements to improve SEO
 Miroslav Gajic
 https://www.pluralsight.com/guides/semantic-html
 
+#Semantic elements
 W3Schools.com
 https://www.w3schools.com/html/html5_semantic_elements.asp
