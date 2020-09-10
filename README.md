@@ -24,7 +24,6 @@ Or you can just click here: https://dnfrancis22.github.io/horiseon-code-refactor
 **Usage**
 
 ![Horiseon-site](./assets/images/Horiseon-site.jpg)
-Format: ![Screen shot of deployed the site.](url)
 
 
 
