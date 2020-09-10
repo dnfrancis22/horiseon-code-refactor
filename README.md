@@ -21,10 +21,10 @@ Click on the link in the green box next to "your site is published at".
 
 Or you can just click here: https://dnfrancis22.github.io/horiseon-code-refactor/
 
-**usage**
+**Usage**
 
-![GitHub Logo](./assets/images/Horiseon-site.jpg)
-Format: ![Alt Text](url)
+![Horiseon-site](./assets/images/Horiseon-site.jpg)
+Format: ![Screen shot of deployed the site.](url)
 
 
 
