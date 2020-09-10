@@ -10,7 +10,20 @@ Next I changed the div tags to semantic elements. This better defines sections a
 
 To make the site more accessible, I added alt attributes to the images. I created an image tag in the index.html for the main image that was originally linked in the style.css file so that I could add an alt attribute to it. This allows people that use screen readers to hear a description of the image on the page. I changed the back ground color of the aside so that it better contrasts with the text.
 
-And finally I went through the style.css file and cleaned up the redundancy to make it more efficient. I also fixed one of the links in the vav bar that was not working.
+And finally I went through the style.css file and cleaned up the redundancy to make it more efficient. I also fixed one of the links in 
+the vav bar that was not working.
+
+**Instalation**
+
+Click on the settings tab.
+Scroll down to the section that says GitHub Pages.
+Click on the link in the green box next to "your site is published at".
+
+or yu can just click here http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+
 
 **Credits**
 
